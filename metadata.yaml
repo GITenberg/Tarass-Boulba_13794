@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/531
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13794#Tarass-Boulba
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-10-19'
 gutenberg_type: Text
