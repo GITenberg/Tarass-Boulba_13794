@@ -1,0 +1,41 @@
+_repo: Tarass-Boulba_13794
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Viardot, Louis
+    alias: Viardo
+    birthdate: 1800
+    deathdate: 1883
+    gutenberg_agent_id: '5976'
+    url: http://www.gutenberg.org/2009/agents/5976
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolay Vasilyevich
+    - Gogol, Nikolaj
+    - Гоголь, Николай Васильевич
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13794'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ukraine -- Fiction'
+- !lcsh 'Cossacks -- Fiction'
+- !lcc 'PG'
+title: Tarass Boulba
+url: http://www.gutenberg.org/ebooks/13794
